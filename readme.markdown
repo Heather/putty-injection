@@ -1,1 +1,2 @@
-![source-code](https://raw.github.com/nCdy/ncdy.github.com/master/img/th1.png)
+Putty hot-keys
+==============
